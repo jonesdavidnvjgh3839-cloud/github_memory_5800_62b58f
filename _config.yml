@@ -1,6 +1,6 @@
 # Site configuration
-title: AcmeCorp Product Hub
-tagline: Template tagline - replace me
-description: This is a template repository for the company product content hub.
+title: NovaMart
+tagline: Everyday essentials, delivered smartly
+description: NovaMart is a modern e-commerce retailer focused on smart home, audio, and workspace accessories.
 baseurl: ""
 products_enabled: true

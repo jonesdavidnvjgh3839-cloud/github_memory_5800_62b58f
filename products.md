@@ -1,11 +1,10 @@
-# Products
+# Product Catalog
 
 Browse our product catalog below.
 
-## Placeholder Products
+## Product Catalog
 
-- [Acme Gadget One](_products/acme-gadget-one.md)
-- [Acme Gadget Two](_products/acme-gadget-two.md)
-- [Sample Widget](_products/sample-widget.md)
-
-TODO: Replace with the real product list.
+- [Aurora Smart Lamp](_products/aurora-smart-lamp.md) — $49.99
+- [Nimbus Wireless Earbuds](_products/nimbus-wireless-earbuds.md) — $89.99
+- [Vertex Mechanical Keyboard](_products/vertex-mechanical-keyboard.md) — $129.99
+- [Orbit USB-C Hub](_products/orbit-usb-c-hub.md) — $39.99

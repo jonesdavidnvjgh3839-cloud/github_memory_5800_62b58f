@@ -1,5 +1,5 @@
-# Welcome to the AcmeCorp Product Hub
+# Welcome to NovaMart
 
-This is the home page for the product content hub.
+Everyday essentials, delivered smartly.
 
-TODO: This is placeholder content. Replace it with the real brand introduction.
+NovaMart is a modern e-commerce retailer focused on smart home, audio, and workspace accessories.
