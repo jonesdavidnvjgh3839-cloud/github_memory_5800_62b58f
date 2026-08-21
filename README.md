@@ -1,2 +1,4 @@
-# github_memory_5800_62b58f
-NovaMart content hub template (auto-created by preprocess)
+# AcmeCorp Product Hub (Template)
+
+This repository is a template for the product content hub. It contains placeholder
+content that must be customized before launch.

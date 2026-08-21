@@ -1,0 +1,6 @@
+# Site configuration
+title: AcmeCorp Product Hub
+tagline: Template tagline - replace me
+description: This is a template repository for the company product content hub.
+baseurl: ""
+products_enabled: true
